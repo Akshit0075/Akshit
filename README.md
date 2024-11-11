@@ -34,6 +34,6 @@ If you have any suggestions, improvements, or new ideas, feel free to fork this 
 
 ## Stay Connected 🌐
 
-- **GitHub**: [Akshit0075](https://github.com/Akshit0075/Akshit))
+- **GitHub**: ([Akshit0075](https://github.com/Akshit0075/Akshit))
 - **Email**: akshittrikha2309@gmail.com
 Happy Coding! 💻✨
